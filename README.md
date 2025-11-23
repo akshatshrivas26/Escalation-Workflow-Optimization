@@ -3,7 +3,7 @@ Project: Escalation Workflow Root-Cause Analysis & Redesign
 
 This project analyzes rising escalation trends in a contact center environment and proposes a redesigned workflow to reduce escalation volume, shorten resolution time, and improve customer satisfaction.
 
-Scope
+**Scope**
 
 Root Cause Analysis (Fishbone + 5 Whys)
 
@@ -15,7 +15,7 @@ Impact modelling and KPI forecasting
 
 Insights and improvement proposal
 
-Key Deliverables
+**Key Deliverables**
 
 | File                  | Description                                                        |
 | --------------------- | ------------------------------------------------------------------ |
@@ -34,8 +34,7 @@ Outcomes (Projected)
 | First Touch Resolution | 61%     | 75–80%    |
 | CSAT                   | 3.6 / 5 | ≥ 4.2 / 5 |
 
-Key Takeaways
-
+**Key Takeaways**
 Escalations increased primarily due to process design issues, not customer behavior or agent performance.
 
 Automation, role separation, and content accuracy significantly reduce friction points in support workflows.
