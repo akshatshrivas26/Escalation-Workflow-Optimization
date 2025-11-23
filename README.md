@@ -16,18 +16,24 @@ Impact modelling and KPI forecasting
 Insights and improvement proposal
 
 Key Deliverables
-File	Description
-RCA_Report.pdf	Full analysis with methodology, findings, and recommendations
-Current_Workflow.png	Current escalation workflow mapping (AS-IS)
-Future_Workflow.png	Optimized workflow with automation and triage (TO-BE)
-KPI_Impact_Model.xlsx	Impact projection model with charts, simulations, and improvements
-Insights_Summary.md	Key insights and findings summary
+
+| File                  | Description                                                        |
+| --------------------- | ------------------------------------------------------------------ |
+| RCA_Report.pdf        | Full analysis with methodology, findings, and recommendations      |
+| Current_Workflow.png  | Current escalation workflow mapping (AS-IS)                        |
+| Future_Workflow.png   | Optimized workflow with automation and triage (TO-BE)              |
+| KPI_Impact_Model.xlsx | Impact projection model with charts, simulations, and improvements |
+| Insights_Summary.md   | Key insights and findings summary                                  |
+
 Outcomes (Projected)
-KPI	Current	Target
-Escalation Rate	11.8%	<5%
-Resolution Time	9.1 min	~7.2 min
-First Touch Resolution	61%	75–80%
-CSAT	3.6 / 5	≥ 4.2 / 5
+
+| KPI                    | Current | Target    |
+| ---------------------- | ------- | --------- |
+| Escalation Rate        | 11.8%   | <5%       |
+| Resolution Time        | 9.1 min | ~7.2 min  |
+| First Touch Resolution | 61%     | 75–80%    |
+| CSAT                   | 3.6 / 5 | ≥ 4.2 / 5 |
+
 Key Takeaways
 
 Escalations increased primarily due to process design issues, not customer behavior or agent performance.
