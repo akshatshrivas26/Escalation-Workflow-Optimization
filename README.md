@@ -1,42 +1,89 @@
-# Business Analyst Portfolio
-Project: Escalation Workflow Root-Cause Analysis & Redesign
+Escalation Workflow Optimization Using Root Cause Analysis
+Overview
 
-This project analyzes rising escalation trends in a contact center environment and proposes a redesigned workflow to reduce escalation volume, shorten resolution time, and improve customer satisfaction.
+This project analyzes the rising escalation rate within a contact center support environment and proposes a redesigned workflow aimed at reducing delays, improving routing accuracy, and increasing customer satisfaction. The work includes root-cause analysis, workflow mapping, impact modeling, and a future-state process recommendation.
 
-**Scope**
+Objectives
 
-Root Cause Analysis (Fishbone + 5 Whys)
+Identify root causes behind increasing escalation trends.
 
-Current-state workflow mapping
+Map the existing workflow and operational pain points.
 
-Redesigned future workflow
+Propose an optimized workflow supported by automation and routing logic.
 
-Impact modelling and KPI forecasting
+Model the expected business impact using measurable KPIs.
 
-Insights and improvement proposal
+Scope
 
-**Key Deliverables**
+This analysis focuses on:
 
-| File                  | Description                                                        |
-| --------------------- | ------------------------------------------------------------------ |
-| RCA_Report.pdf        | Full analysis with methodology, findings, and recommendations      |
-| Current_Workflow.png  | Current escalation workflow mapping (AS-IS)                        |
-| Future_Workflow.png   | Optimized workflow with automation and triage (TO-BE)              |
-| KPI_Impact_Model.xlsx | Impact projection model with charts, simulations, and improvements |
-| Insights_Summary.md   | Key insights and findings summary                                  |
+Phone and chat support operations
 
-Outcomes (Projected)
+Escalation handling structure
 
-| KPI                    | Current | Target    |
-| ---------------------- | ------- | --------- |
-| Escalation Rate        | 11.8%   | <5%       |
-| Resolution Time        | 9.1 min | ~7.2 min  |
-| First Touch Resolution | 61%     | 75–80%    |
-| CSAT                   | 3.6 / 5 | ≥ 4.2 / 5 |
+Knowledge base influence on resolution accuracy
 
-**Key Takeaways**
-Escalations increased primarily due to process design issues, not customer behavior or agent performance.
+Routing, approval logic, and agent workflows
 
-Automation, role separation, and content accuracy significantly reduce friction points in support workflows.
+Key Deliverables
+File	Description
+RCA_Report.pdf	Root-cause analysis and findings
+Current_Workflow.png	Existing escalation workflow (AS-IS)
+Future_Workflow.png	Proposed workflow with automation and improved routing (TO-BE)
+KPI_Impact_Model.xlsx	Metric analysis, projections, and visual comparisons
+Insights_Summary.md	Consolidated business insights and implications
+Escalation_Workflow_BRD.docx	Business requirements document for the proposed workflow
+Escalation_Optimization_Presentation.pdf	Executive summary presentation of the project
+Methodology
 
-The redesigned workflow focuses on preventing escalations rather than reacting to them.
+Fishbone Diagram
+
+5 Whys Analysis
+
+Workflow Mapping
+
+KPI Modeling and Scenario Simulation
+
+Business Requirements Documentation (BRD)
+
+Findings Summary
+
+The primary drivers of escalation growth were:
+
+Multiple handoffs and approval layers
+
+Outdated knowledge content causing inconsistent responses
+
+Lack of automated routing or categorization logic
+
+High dependency on supervisors for resolution authority
+
+Proposed Improvements
+
+Automated triage logic to categorize issues at intake
+
+Smart routing to assign tickets to specialized queues
+
+Reduced approval layers for standard cases
+
+Continuous knowledge base updates based on issue patterns
+
+Projected Impact
+Metric	Current	Target
+Escalation Rate	11.8%	<5%
+Resolution Time	9.1 min	~7.2 min
+First Touch Resolution	61%	75–80%
+Customer Satisfaction (CSAT)	3.6 / 5	≥ 4.2 / 5
+Conclusion
+
+The redesigned workflow focuses on eliminating the operational bottlenecks that trigger escalations rather than managing escalations reactively. With automation, streamlined routing, and improved knowledge management, the support experience becomes faster, more consistent, and scalable.
+
+Tech/Tools Used
+
+Excel
+
+Draw.io / Workflow Mapping Tools
+
+RCA Frameworks
+
+Documentation and Presentation Tools
